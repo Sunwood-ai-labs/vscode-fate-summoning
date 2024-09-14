@@ -1,6 +1,6 @@
 # vscode-fate-summoning 
 
-## 機能
+## 🚀 Features
 
 この拡張機能は、VS Code内でFateシリーズのサーヴァント召喚体験を提供します。主な機能は以下の通りです：
 
@@ -11,21 +11,21 @@
 
 以下は拡張機能の動作例です：
 
-![サーヴァント召喚例](./images/demo.png)
+![サーヴァント召喚例](https://raw.githubusercontent.com/Sunwood-ai-labs/vscode-fate-summoning/master/images/demo.png)
 
-## 要件
+## 🛠️ Requirements
 
 この拡張機能には特別な要件やシステム依存性はありません。VS Codeがインストールされていれば使用可能です。
 
-## 拡張機能の設定
+## ⚙️ Extension Settings
 
 現在、この拡張機能には特別な設定項目はありません。将来的に設定オプションを追加する可能性があります。
 
-## 既知の問題
+## 🐛 Known Issues
 
 現時点で報告されている既知の問題はありません。問題を発見した場合は、GitHubのIssueトラッカーで報告してください。
 
-## リリースノート
+## 📝 Release Notes
 
 ### 1.0.0
 
@@ -34,4 +34,3 @@
 - サーヴァント召喚機能の実装
 - 7つのメインクラスのサポート
 - 5種類の宝具タイプの実装
-
