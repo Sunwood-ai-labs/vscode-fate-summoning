@@ -45,5 +45,9 @@
     "webpack-cli": "^5.1.4",
     "@vscode/test-cli": "^0.0.10",
     "@vscode/test-electron": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sunwood-ai-labs/vscode-fate-summoning.git"
   }
 }
