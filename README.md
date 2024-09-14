@@ -11,7 +11,7 @@
 
 以下は拡張機能の動作例です：
 
-![サーヴァント召喚例](./images/demo.png)
+![サーヴァント召喚例](https://raw.githubusercontent.com/Sunwood-ai-labs/vscode-fate-summoning/master/images/demo.png)
 
 ## 🛠️ Requirements
 
